@@ -25,3 +25,8 @@ li a:hover:not(.active) {
 .active {
   background-color: #FFC300;
 }
+
+.boxed {
+    border: 1px solid #FFC300;
+    padding: 20px 20px 20px 20px;
+}
