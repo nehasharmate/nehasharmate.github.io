@@ -1,3 +1,8 @@
+  
+#logo{
+      height:250px;
+      width: 250px;
+  }
 ul {
   list-style-type: none;
   margin: 0;
@@ -29,4 +34,17 @@ li a:hover:not(.active) {
 .boxed {
     border: 1px solid #FFC300;
     padding: 20px 20px 20px 20px;
+}
+
+#badge6, #badge5, #badge4, #badge3, #badge2, #badge1{
+    text-align: center;
+    height:227px;
+    width:200px;
+    padding:20px 20px 20px 20px;
+}
+#skill1,#skill2,#skill3,#skill4,#skill5,#skill6,#skill7,#skill8,#skill9{
+    text-align: center;
+    height:227px;
+    width:200px;
+    padding:20px 20px 20px 20px;
 }
