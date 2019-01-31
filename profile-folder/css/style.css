@@ -1,12 +1,6 @@
 #logo{
     border-radius: 50;
   }
-body{
-    background:black;
-}
-#headname{
-    color:white;
-}
 #nav {
   list-style-type: none;
   margin: 0;
@@ -14,6 +8,7 @@ body{
   overflow: hidden;
   background-color: #1385B7;
 }
+
 li {
   float: left;
   color:white;
@@ -131,4 +126,10 @@ h3{
 }
  p,h4{
      color:white;
+ }
+ #headname{
+  color:white;   
+ }
+ body{
+     background:black;
  }
