@@ -1,6 +1,9 @@
 #logo{
     border-radius: 50;
   }
+#headname{
+    color:white;
+}
 #nav {
   list-style-type: none;
   margin: 0;
