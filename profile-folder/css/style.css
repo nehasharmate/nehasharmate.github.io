@@ -67,7 +67,7 @@ h3{
 .flip-box {
   background-color: transparent;
   width: 100%;
-  height: 100%;
+  height: 75%;
   border: 1px solid #f1f1f1;
   perspective: 1000px;
 }
