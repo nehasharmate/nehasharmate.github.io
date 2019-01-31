@@ -11,6 +11,7 @@
 
 li {
   float: left;
+  color:white;
 }
 
 li a {
@@ -65,10 +66,10 @@ h3{
 }
 
 .flip-box {
-  background-color: white;
+  background-color: black;
   width: 100%;
   height: 500px;
-  border: 1px solid #f1f1f1;
+  border: 1px solid black;
   perspective: 1000px;
 }
 
@@ -94,12 +95,35 @@ h3{
 }
 
 .flip-box-front {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
 }
 
 .flip-box-back {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   transform: rotateY(180deg);
-} 
+}
+
+.container {
+  position: relative;
+}
+
+.topleft {
+  position: absolute;
+  top: 150px;
+  left: 350px;
+  font-size: 18px;
+}
+
+#headerimg { 
+  width: 100%;
+  height: auto;
+  opacity: 0.5;
+}
+#home,#achievements,#skills,#contact,#experience{
+    color:white;
+}
+ p,h4{
+     color:white;
+ }
