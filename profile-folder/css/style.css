@@ -8,7 +8,9 @@
   overflow: hidden;
   background-color: #1385B7;
 }
-
+body{
+    background:black;
+}
 li {
   float: left;
   color:white;
