@@ -1,6 +1,9 @@
 #logo{
     border-radius: 50;
   }
+body{
+    background:black;
+}
 #headname{
     color:white;
 }
@@ -10,9 +13,6 @@
   padding: 0;
   overflow: hidden;
   background-color: #1385B7;
-}
-body{
-    background:black;
 }
 li {
   float: left;
