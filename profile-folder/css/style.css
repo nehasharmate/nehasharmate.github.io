@@ -35,8 +35,8 @@ li a:hover:not(.active) {
     padding: 20px 20px 20px 20px;
 }
 
-.boxed h1,h3,h4{
-    color: white;
+h1,h2,h3,h4,h5,h6{
+    color: #ffffff;
 }
 
 #badge6, #badge5, #badge4, #badge3, #badge2, #badge1{
