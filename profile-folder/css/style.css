@@ -11,12 +11,12 @@
 
 li {
   float: left;
-  color:white;
+  color:#ffffff;
 }
 
 li a {
   display: block;
-  color: white;
+  color: #ffffff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -45,7 +45,7 @@ h1,h2,h3,h4,h5,h6{
     width:200px;
     padding:20px 20px 20px 20px;
 }
-#skill1,#skill2,#skill3,#skill4,#skill5,#skill6,#skill7,#skill8,#skill9{
+#skill1,#skill2,#skill3,#skill4,#skill5,#skill6,#skill7,#skill8,#skill9,#skill10,#skill11,#skill12{
     text-align: center;
     height:227px;
     width:200px;
@@ -54,7 +54,7 @@ h1,h2,h3,h4,h5,h6{
 
 .isfooter{
     background: #1385B7;
-    color:white;
+    color:#ffffff;
     height:40%;
     width:100%;
     padding:20px 20px 20px 20px;
@@ -98,12 +98,12 @@ h1,h2,h3,h4,h5,h6{
 
 .flip-box-front {
   background-color: black;
-  color: white;
+  color: #ffffff;
 }
 
 .flip-box-back {
   background-color: black;
-  color: white;
+  color: #ffffff;
   transform: rotateY(180deg);
 }
 
@@ -124,13 +124,13 @@ h1,h2,h3,h4,h5,h6{
   opacity: 0.5;
 }
 #home,#achievements,#skills,#contact,#experience{
-    color:white;
+    color:#ffffff;
 }
  p,h4{
-     color:white;
+     color:#ffffff;
  }
  #headname{
-  color:white;   
+  color:#ffffff;   
  }
  body{
      background:black;
