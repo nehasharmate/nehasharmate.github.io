@@ -35,6 +35,10 @@ li a:hover:not(.active) {
     padding: 20px 20px 20px 20px;
 }
 
+.boxed h1,h3,h4{
+    color: white;
+}
+
 #badge6, #badge5, #badge4, #badge3, #badge2, #badge1{
     text-align: center;
     height:227px;
